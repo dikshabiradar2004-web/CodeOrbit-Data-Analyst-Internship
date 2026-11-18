@@ -1,0 +1,19 @@
+TASK 1 - DATA CLEANING REPORT
+-----------------------------
+Rows before cleaning: 124
+Duplicate orders removed: 4
+Rows after cleaning: 119
+Invalid/missing dates removed: 1
+
+Cleaning steps:
+1. Standardized column names and text formatting.
+2. Converted mixed date formats into YYYY-MM-DD.
+3. Converted quantity, unit price and discount to numeric values.
+4. Removed duplicate Order IDs, keeping the first record.
+5. Filled missing category and unit price using the product reference.
+6. Filled missing customer, region and payment method with 'Unknown'.
+7. Filled missing discount with 0 and quantity with product median (or 1).
+8. Removed rows with invalid dates, missing product/price, or non-positive values.
+9. Added gross_sales and net_sales columns.
+
+Cleaned file: C:\Users\HP\Downloads\CodeOrbit_Data_Analyst_Internship\CodeOrbit_Data_Analyst_Internship\output\cleaned_sales_data.csv

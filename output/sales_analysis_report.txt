@@ -1,0 +1,20 @@
+TASK 2 - SALES DATA ANALYSIS REPORT
+----------------------------------
+Total sales: ₹3,941,399.02
+Total orders: 119
+Average order value: ₹33,121.00
+Total units sold: 359
+
+Top product by sales: Laptop
+Highest-sales region: North
+
+Files created:
+- monthly_sales.csv
+- sales_by_region.csv
+- sales_by_category.csv
+- top_5_products.csv
+
+Interpretation:
+The report summarizes sales by month, region, category and product.
+Use the output tables to identify high-performing products and regions,
+and to compare sales performance over time.

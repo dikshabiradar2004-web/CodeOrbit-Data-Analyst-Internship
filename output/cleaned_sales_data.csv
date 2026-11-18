@@ -1,0 +1,120 @@
+order_id,order_date,customer_name,product,category,region,quantity,unit_price,discount,payment_method,gross_sales,net_sales
+ORD-0103,2026-01-03,Aditya Kale,Notebook,Stationery,North,5,77.4,0.05,Card,387.0,367.65
+ORD-0120,2026-01-04,Omkar Shinde,Office Chair,Furniture,South,5,6195.13,0.1,Card,30975.65,27878.085000000003
+ORD-0114,2026-01-05,Meera Jadhav,Desk,Furniture,South,3,9059.61,0.2,Upi,27178.83,21743.064000000002
+ORD-0043,2026-01-05,Ananya More,Desk,Furniture,West,2,8557.25,0.15,Card,17114.5,14547.324999999999
+ORD-0035,2026-01-06,Priya Patil,Pen Pack,Stationery,West,4,119.09,0.05,Cash,476.36,452.542
+ORD-0063,2026-01-08,Aarav Sharma,Headphones,Electronics,South,4,1798.7,0.05,Cash,7194.8,6835.0599999999995
+ORD-0038,2026-01-11,Vivek Pawar,Office Chair,Furniture,South,5,6329.48,0.05,Net Banking,31647.399999999998,30065.029999999995
+ORD-0062,2026-01-16,Aditya Kale,Notebook,Stationery,South,4,79.19,0.2,Card,316.76,253.40800000000002
+ORD-0055,2026-01-18,Neha Joshi,Desk,Furniture,East,1,9434.81,0.1,Card,9434.81,8491.329
+ORD-0003,2026-01-18,Neha Joshi,Laptop,Electronics,South,2,54967.88,0.0,Upi,109935.76,109935.76
+ORD-0065,2026-01-19,Neha Joshi,Laptop,Electronics,West,4,52546.9,0.15,Cash,210187.6,178659.46
+ORD-0081,2026-01-20,Omkar Shinde,Pen Pack,Stationery,West,2,125.99,0.2,Net Banking,251.98,201.584
+ORD-0078,2026-01-20,Meera Jadhav,Headphones,Electronics,East,2,1837.2,0.0,Upi,3674.4,3674.4
+ORD-0050,2026-01-22,Priya Patil,Desk,Furniture,North,2,9498.85,0.15,Net Banking,18997.7,16148.045
+ORD-0105,2026-01-23,Aditya Kale,Pen Pack,Stationery,South,5,120.09,0.05,Upi,600.45,570.4275
+ORD-0097,2026-01-23,Ananya More,Headphones,Electronics,East,1,1871.52,0.0,Card,1871.52,1871.52
+ORD-0109,2026-01-24,Omkar Shinde,Headphones,Electronics,East,5,1718.73,0.15,Net Banking,8593.65,7304.602499999999
+ORD-0019,2026-01-24,Sana Khan,Laptop,Electronics,South,3,51848.4,0.0,Net Banking,155545.2,155545.2
+ORD-0005,2026-01-24,Unknown,Laptop,Electronics,East,3,51690.41,0.05,Cash,155071.23,147317.6685
+ORD-0104,2026-01-24,Aarav Sharma,Desk,Furniture,East,2,9191.87,0.0,Net Banking,18383.74,18383.74
+ORD-0077,2026-01-26,Sana Khan,Backpack,Accessories,South,3,1409.08,0.15,Net Banking,4227.24,3593.1539999999995
+ORD-0116,2026-01-26,Priya Patil,Backpack,Accessories,East,4,1386.41,0.15,Card,5545.64,4713.794
+ORD-0030,2026-01-26,Neha Joshi,Backpack,Accessories,North,1,1335.24,0.0,Cash,1335.24,1335.24
+ORD-0015,2026-01-28,Aditya Kale,Desk,Furniture,East,3,9197.69,0.0,Card,27593.07,27593.07
+ORD-0098,2026-01-28,Ananya More,Backpack,Accessories,East,5,1346.12,0.1,Net Banking,6730.599999999999,6057.54
+ORD-0046,2026-01-28,Aditya Kale,Smartphone,Electronics,North,5,22518.29,0.05,Card,112591.45000000001,106961.8775
+ORD-0045,2026-01-30,Vivek Pawar,Laptop,Electronics,South,4,52006.52,0.0,Upi,208026.08,208026.08
+ORD-0088,2026-01-30,Kabir Shah,Office Chair,Furniture,North,1,6145.03,0.1,Card,6145.03,5530.527
+ORD-0066,2026-01-31,Aarav Sharma,Desk,Furniture,South,4,9459.13,0.05,Net Banking,37836.52,35944.693999999996
+ORD-0058,2026-02-01,Vivek Pawar,Desk,Furniture,West,3,9385.14,0.05,Upi,28155.42,26747.648999999998
+ORD-0100,2026-02-05,Aarav Sharma,Office Chair,Furniture,North,1,6352.05,0.0,Card,6352.05,6352.05
+ORD-0026,2026-02-06,Priya Patil,Laptop,Electronics,North,3,48925.94,0.05,Net Banking,146777.82,139438.929
+ORD-0107,2026-02-06,Meera Jadhav,Pen Pack,Stationery,East,3,124.38,0.1,Upi,373.14,335.826
+ORD-0036,2026-02-08,Omkar Shinde,Pen Pack,Stationery,North,5,118.68,0.15,Upi,593.4000000000001,504.39000000000004
+ORD-0020,2026-02-11,Aditya Kale,Smartphone,Electronics,West,2,22448.31,0.15,Cash,44896.62,38162.127
+ORD-0082,2026-02-11,Sana Khan,Pen Pack,Stationery,North,5,113.34,0.05,Upi,566.7,538.365
+ORD-0087,2026-02-16,Vivek Pawar,Backpack,Accessories,North,5,1473.26,0.05,Cash,7366.3,6997.985
+ORD-0052,2026-02-18,Kabir Shah,Notebook,Stationery,East,3,84.5,0.0,Card,253.5,253.5
+ORD-0079,2026-02-20,Neha Joshi,Office Chair,Furniture,South,1,6624.35,0.1,Upi,6624.35,5961.915000000001
+ORD-0113,2026-02-21,Isha Kulkarni,Backpack,Accessories,East,3,1471.37,0.05,Cash,4414.11,4193.4045
+ORD-0086,2026-02-22,Isha Kulkarni,Headphones,Electronics,South,4,1803.25,0.15,Cash,7213.0,6131.05
+ORD-0039,2026-02-23,Neha Joshi,Headphones,Electronics,North,5,1834.97,0.1,Net Banking,9174.85,8257.365
+ORD-0048,2026-02-24,Meera Jadhav,Pen Pack,Stationery,East,2,121.88,0.2,Cash,243.76,195.008
+ORD-0111,2026-02-24,Vivek Pawar,Office Chair,Furniture,South,5,6491.1,0.0,Net Banking,32455.5,32455.5
+ORD-0057,2026-02-25,Aarav Sharma,Pen Pack,Stationery,East,4,121.14,0.1,Card,484.56,436.104
+ORD-0085,2026-02-27,Meera Jadhav,Backpack,Accessories,West,5,1476.09,0.2,Net Banking,7380.45,5904.360000000001
+ORD-0017,2026-02-28,Meera Jadhav,Headphones,Electronics,East,3,1772.02,0.05,Net Banking,5316.0599999999995,5050.257
+ORD-0064,2026-03-01,Rohan Deshmukh,Pen Pack,Stationery,North,1,114.88,0.05,Net Banking,114.88,109.136
+ORD-0074,2026-03-02,Rohan Deshmukh,Pen Pack,Stationery,South,5,120.3,0.1,Net Banking,601.5,541.35
+ORD-0049,2026-03-07,Isha Kulkarni,Office Chair,Furniture,West,4,6178.37,0.1,Card,24713.48,22242.132
+ORD-0006,2026-03-09,Priya Patil,Headphones,Electronics,North,3,1892.18,0.05,Net Banking,5676.54,5392.713
+ORD-0094,2026-03-09,Sana Khan,Laptop,Electronics,West,3,49469.47,0.15,Card,148408.41,126147.1485
+ORD-0024,2026-03-12,Rohan Deshmukh,Office Chair,Furniture,North,5,6334.9,0.05,Cash,31674.5,30090.774999999998
+ORD-0089,2026-03-20,Omkar Shinde,Headphones,Electronics,South,2,1906.35,0.05,Card,3812.7,3622.0649999999996
+ORD-0060,2026-03-20,Aarav Sharma,Headphones,Electronics,East,3,1827.5,0.15,Cash,5482.5,4660.125
+ORD-0075,2026-03-21,Aditya Kale,Pen Pack,Stationery,East,5,113.11,0.05,Net Banking,565.55,537.2724999999999
+ORD-0021,2026-03-21,Meera Jadhav,Laptop,Electronics,East,5,54075.91,0.0,Cash,270379.55000000005,270379.55000000005
+ORD-0047,2026-03-22,Neha Joshi,Pen Pack,Stationery,North,3,118.29,0.0,Upi,354.87,354.87
+ORD-0008,2026-03-22,Ananya More,Backpack,Accessories,North,3,1354.18,0.2,Cash,4062.54,3250.032
+ORD-0054,2026-03-23,Priya Patil,Smartphone,Electronics,North,4,21398.72,0.05,Card,85594.88,81315.136
+ORD-0056,2026-03-24,Isha Kulkarni,Desk,Furniture,North,1,8678.55,0.2,Upi,8678.55,6942.84
+ORD-0029,2026-03-25,Sana Khan,Desk,Furniture,East,3,9074.24,0.15,Net Banking,27222.72,23139.312
+ORD-0018,2026-03-26,Rohan Deshmukh,Pen Pack,Stationery,Unknown,1,115.53,0.1,Upi,115.53,103.977
+ORD-0014,2026-03-26,Aarav Sharma,Notebook,Stationery,East,2,75.62,0.0,Net Banking,151.24,151.24
+ORD-0119,2026-03-26,Isha Kulkarni,Backpack,Accessories,South,3,1447.84,0.1,Upi,4343.5199999999995,3909.1679999999997
+ORD-0073,2026-03-27,Isha Kulkarni,Smartphone,Electronics,West,3,1800.0,0.1,Cash,5400.0,4860.0
+ORD-0071,2026-03-30,Ananya More,Desk,Furniture,North,2,8989.96,0.0,Card,17979.92,17979.92
+ORD-0092,2026-04-04,Isha Kulkarni,Backpack,Accessories,West,1,1369.08,0.0,Net Banking,1369.08,1369.08
+ORD-0083,2026-04-11,Omkar Shinde,Pen Pack,Stationery,West,1,118.14,0.05,Upi,118.14,112.23299999999999
+ORD-0040,2026-04-11,Meera Jadhav,Smartphone,Electronics,North,1,22000.0,0.0,Upi,22000.0,22000.0
+ORD-0009,2026-04-11,Omkar Shinde,Notebook,Stationery,North,1,75.81,0.2,Upi,75.81,60.648
+ORD-0034,2026-04-12,Vivek Pawar,Headphones,Electronics,South,1,1757.65,0.2,Net Banking,1757.65,1406.1200000000001
+ORD-0032,2026-04-13,Priya Patil,Smartphone,Electronics,West,5,22699.6,0.0,Cash,113498.0,113498.0
+ORD-0067,2026-04-16,Isha Kulkarni,Notebook,Stationery,East,5,78.53,0.1,Net Banking,392.65,353.385
+ORD-0061,2026-04-16,Sana Khan,Laptop,Electronics,South,1,52935.04,0.1,Upi,52935.04,47641.536
+ORD-0068,2026-04-17,Isha Kulkarni,Notebook,Stationery,South,4,75.42,0.0,Cash,301.68,301.68
+ORD-0099,2026-04-19,Aarav Sharma,Desk,Furniture,North,2,9404.53,0.0,Cash,18809.06,18809.06
+ORD-0033,2026-04-25,Isha Kulkarni,Smartphone,Electronics,West,3,22141.45,0.2,Card,66424.35,53139.48000000001
+ORD-0115,2026-04-25,Meera Jadhav,Office Chair,Furniture,South,1,6192.6,0.15,Net Banking,6192.6,5263.71
+ORD-0007,2026-04-27,Aditya Kale,Smartphone,Electronics,East,4,22852.09,0.1,Upi,91408.36,82267.524
+ORD-0112,2026-04-30,Vivek Pawar,Pen Pack,Stationery,East,3,126.56,0.1,Card,379.68,341.712
+ORD-0031,2026-05-01,Neha Joshi,Laptop,Electronics,South,3,51819.64,0.2,Upi,155458.91999999998,124367.136
+ORD-0041,2026-05-01,Vivek Pawar,Office Chair,Furniture,West,5,6426.98,0.05,Card,32134.899999999998,30528.154999999995
+ORD-0025,2026-05-04,Kabir Shah,Backpack,Accessories,East,2,1339.48,0.0,Card,2678.96,2678.96
+ORD-0106,2026-05-06,Aditya Kale,Desk,Furniture,North,5,9087.61,0.2,Cash,45438.05,36350.44
+ORD-0022,2026-05-07,Rohan Deshmukh,Smartphone,Electronics,West,4,21504.65,0.1,Upi,86018.6,77416.74
+ORD-0028,2026-05-08,Ananya More,Desk,Furniture,South,3,9303.19,0.2,Card,27909.57,22327.656000000003
+ORD-0108,2026-05-10,Ananya More,Pen Pack,Stationery,East,1,123.44,0.15,Net Banking,123.44,104.92399999999999
+ORD-0044,2026-05-11,Aarav Sharma,Office Chair,Furniture,North,4,6470.26,0.1,Cash,25881.04,23292.936
+ORD-0080,2026-05-12,Aditya Kale,Laptop,Electronics,North,4,53676.36,0.05,Net Banking,214705.44,203970.168
+ORD-0016,2026-05-15,Vivek Pawar,Backpack,Accessories,South,5,1478.54,0.15,Cash,7392.7,6283.795
+ORD-0095,2026-05-16,Meera Jadhav,Backpack,Accessories,North,4,1360.09,0.05,Net Banking,5440.36,5168.342
+ORD-0004,2026-05-18,Neha Joshi,Office Chair,Furniture,West,4,6723.13,0.2,Cash,26892.52,21514.016000000003
+ORD-0059,2026-05-18,Rohan Deshmukh,Smartphone,Electronics,North,1,22579.38,0.0,Cash,22579.38,22579.38
+ORD-0011,2026-05-18,Kabir Shah,Desk,Furniture,South,1,8842.89,0.15,Cash,8842.89,7516.456499999999
+ORD-0093,2026-05-20,Isha Kulkarni,Office Chair,Furniture,West,1,6626.1,0.15,Net Banking,6626.1,5632.185
+ORD-0053,2026-05-21,Isha Kulkarni,Backpack,Accessories,North,2,1436.44,0.0,Cash,2872.88,2872.88
+ORD-0101,2026-05-21,Rohan Deshmukh,Office Chair,Furniture,South,5,6868.02,0.0,Card,34340.100000000006,34340.100000000006
+ORD-0013,2026-05-21,Ananya More,Office Chair,Furniture,East,4,6261.82,0.05,Card,25047.28,23794.915999999997
+ORD-0001,2026-05-21,Isha Kulkarni,Smartphone,Electronics,South,1,21838.64,0.0,Card,21838.64,21838.64
+ORD-0070,2026-05-22,Priya Patil,Pen Pack,Stationery,West,3,113.99,0.2,Card,341.96999999999997,273.57599999999996
+ORD-0027,2026-05-23,Rohan Deshmukh,Smartphone,Electronics,West,4,22435.21,0.2,Card,89740.84,71792.672
+ORD-0042,2026-05-28,Ananya More,Pen Pack,Stationery,North,3,115.2,0.0,Net Banking,345.6,345.6
+ORD-0010,2026-05-30,Neha Joshi,Office Chair,Furniture,North,5,6602.7,0.1,Net Banking,33013.5,29712.15
+ORD-0076,2026-05-30,Neha Joshi,Laptop,Electronics,West,2,54472.04,0.1,Cash,108944.08,98049.672
+ORD-0084,2026-05-31,Rohan Deshmukh,Office Chair,Furniture,West,2,6740.44,0.0,Unknown,13480.88,13480.88
+ORD-0023,2026-05-31,Meera Jadhav,Desk,Furniture,North,4,9329.15,0.2,Cash,37316.6,29853.28
+ORD-0037,2026-06-04,Kabir Shah,Laptop,Electronics,North,5,50339.78,0.15,Card,251698.9,213944.065
+ORD-0002,2026-06-05,Omkar Shinde,Headphones,Electronics,North,3,1842.63,0.0,Net Banking,5527.89,5527.89
+ORD-0091,2026-06-11,Ananya More,Laptop,Electronics,North,5,54455.11,0.1,Net Banking,272275.55,245047.995
+ORD-0090,2026-06-11,Kabir Shah,Smartphone,Electronics,West,1,22656.33,0.15,Net Banking,22656.33,19257.8805
+ORD-0051,2026-06-14,Neha Joshi,Smartphone,Electronics,East,2,22527.23,0.0,Card,45054.46,45054.46
+ORD-0110,2026-06-17,Aditya Kale,Backpack,Accessories,East,3,1382.79,0.15,Cash,4148.37,3526.1144999999997
+ORD-0118,2026-06-18,Meera Jadhav,Notebook,Stationery,East,1,82.92,0.15,Cash,82.92,70.482
+ORD-0072,2026-06-19,Sana Khan,Notebook,Stationery,East,3,80.69,0.15,Cash,242.07,205.7595
+ORD-0096,2026-06-19,Ananya More,Laptop,Electronics,South,1,50383.66,0.0,Net Banking,50383.66,50383.66
+ORD-0069,2026-06-23,Ananya More,Laptop,Electronics,East,1,51889.57,0.0,Cash,51889.57,51889.57
+ORD-0117,2026-06-24,Sana Khan,Pen Pack,Stationery,East,1,121.38,0.05,Net Banking,121.38,115.31099999999999
+ORD-0012,2026-06-25,Isha Kulkarni,Notebook,Stationery,North,1,83.77,0.05,Card,83.77,79.58149999999999

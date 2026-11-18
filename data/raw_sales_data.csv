@@ -1,0 +1,125 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Quantity,Unit Price,Discount,Payment Method
+ORD-0001,"May 21, 2026",Isha Kulkarni,Smartphone,Electronics,South,1,"21,838.64",0,Card
+ORD-0002,"Jun 05, 2026",Omkar Shinde,Headphones,Electronics,North,3,1842.63,0,Net Banking
+ORD-0003,2026-01-18,Neha Joshi,Laptop,Electronics,South,2,54967.88,0%,UPI
+ORD-0004,18/05/2026,Neha Joshi,Office Chair,Furniture,West,4,"₹6,723.13",0.2,Cash
+ORD-0005,"Jan 24, 2026",,Laptop,Electronics,East,3,"51,690.41",0.05,Cash
+ORD-0006,09/03/2026, Priya Patil ,Headphones,Electronics,North,3,1892.18,5%,Net Banking
+ORD-0007,27/04/2026,Aditya Kale, Smartphone ,Electronics,East,4,22852.09,0.1,UPI
+ORD-0008,2026-03-22,Ananya More,Backpack,Accessories,NORTH,3,"₹1,354.18",0.2,Cash
+ORD-0009,2026-04-11,Omkar Shinde,notebook,Stationery,North,1,75.81,20%,UPI
+ORD-0010,2026-05-30,Neha Joshi,Office Chair,Furniture, north ,5,6602.7,0.1,Net Banking
+ORD-0011,"May 18, 2026",Kabir Shah,Desk,FURNITURE,South,1,8842.89,0.15,Cash
+ORD-0012,"Jun 25, 2026", Isha Kulkarni ,Notebook,Stationery,North,1,₹83.77,5%,Card
+ORD-0013,21/05/2026,Ananya More,Office Chair,Furniture,East,4 units,"6,261.82",0.05,Card
+ORD-0014,2026-03-26,Aarav Sharma, Notebook ,Stationery,East,2,75.62,0,Net Banking
+ORD-0015,2026-01-28,Aditya Kale,Desk,Furniture,East,3,9197.69,0%,Card
+ORD-0016,"May 15, 2026",Vivek Pawar,Backpack,Accessories,SOUTH,5,"₹1,478.54",0.15,Cash
+ORD-0017,"Feb 28, 2026",Meera Jadhav,Headphones,Electronics,East,3,"1,772.02",0.05,Net Banking
+ORD-0018,2026-03-26, Rohan Deshmukh ,pen pack,Stationery,,1,115.53,10%,UPI
+ORD-0019,2026-01-24,Sana Khan,Laptop,Electronics,South,3,51848.4,0,Net Banking
+ORD-0020,11/02/2026,Aditya Kale,Smartphone,Electronics, west ,2,"₹22,448.31",0.15,Cash
+ORD-0021,"Mar 21, 2026",Meera Jadhav, Laptop ,Electronics,East,5,"54,075.91",0%,Cash
+ORD-0022,07/05/2026,Rohan Deshmukh,Smartphone,ELECTRONICS,West,4,21504.65,0.1,UPI
+ORD-0023,2026-05-31,Meera Jadhav,Desk,Furniture,North,4,9329.15,0.2,Cash
+ORD-0024,12/03/2026, Rohan Deshmukh ,Office Chair,Furniture,NORTH,5,"₹6,334.90",5%,Cash
+ORD-0025,2026-05-04,Kabir Shah,Backpack,Accessories,East,2,"1,339.48",0,Card
+ORD-0026,"Feb 06, 2026",Priya Patil,Laptop,Electronics,North,,48925.94,0.05,Net Banking
+ORD-0027,2026-05-23,Rohan Deshmukh,smartphone,Electronics,West,4,22435.21,20%,Card
+ORD-0028,"May 08, 2026",Ananya More, Desk ,Furniture,South,3,"₹9,303.19",0.2,Card
+ORD-0029,"Mar 25, 2026",Sana Khan,Desk,Furniture,East,3,"9,074.24",0.15,Net Banking
+ORD-0030,2026-01-26, Neha Joshi ,Backpack,Accessories, north ,1,1335.24,0%,Cash
+ORD-0031,"May 01, 2026",Neha Joshi,Laptop,Electronics,South,3,51819.64,0.2,UPI
+ORD-0032,2026-04-13,Priya Patil,Smartphone,Electronics, west ,5,"₹22,699.60",0,Cash
+ORD-0033,2026-04-25,Isha Kulkarni,Smartphone,ELECTRONICS,West,3,"22,141.45",20%,Card
+ORD-0034,"Apr 12, 2026",Vivek Pawar,Headphones,Electronics,South,1,1757.65,0.2,Net Banking
+ORD-0035,2026-01-06,Priya Patil, Pen Pack ,Stationery,West,4,119.09,0.05,Cash
+ORD-0036,08/02/2026, Omkar Shinde ,pen pack,Stationery,North,5,₹118.68,15%,UPI
+ORD-0037,"Jun 04, 2026",Kabir Shah,Laptop,Electronics,North,5,"50,339.78",0.15,Card
+ORD-0038,"Jan 11, 2026",Vivek Pawar,Office Chair,Furniture,South,5,6329.48,0.05,Net Banking
+ORD-0039,23/02/2026,Neha Joshi,Headphones,Electronics,North,5 units,1834.97,10%,Net Banking
+ORD-0040,"Apr 11, 2026",Meera Jadhav,Smartphone,Electronics,NORTH,1,,0,UPI
+ORD-0041,01/05/2026,Vivek Pawar,Office Chair,Furniture,West,5,"6,426.98",0.05,Card
+ORD-0042,2026-05-28, Ananya More , Pen Pack ,Stationery,North,3,115.2,0%,Net Banking
+ORD-0043,05/01/2026,Ananya More,Desk,Furniture,West,2,8557.25,0.15,Card
+ORD-0044,2026-05-11,Aarav Sharma,Office Chair,FURNITURE,North,4,"₹6,470.26",0.1,Cash
+ORD-0045,"Jan 30, 2026",Vivek Pawar,laptop,Electronics,South,4,"52,006.52",0%,UPI
+ORD-0046,2026-01-28,Aditya Kale,  smartphone ,Electronics,North,5,22518.29,0.05,Card
+ORD-0047,"Mar 22, 2026",Neha Joshi,Pen Pack,Stationery,North,3,118.29,0,UPI
+ORD-0048,"Feb 24, 2026", Meera Jadhav ,Pen Pack,Stationery,EAST,2,₹121.88,20%,Cash
+ORD-0049,2026-03-07,Isha Kulkarni, Office Chair ,Furniture,West,4,"6,178.37",0.1,Card
+ORD-0050,22/01/2026,Priya Patil,Desk,Furniture, north ,2,9498.85,0.15,Net Banking
+ORD-0051,"Jun 14, 2026",Neha Joshi,Smartphone,Electronics,East,2,22527.23,0%,Card
+ORD-0052,2026-02-18,Kabir Shah,Notebook,Stationery,East,3 units,₹84.50,0,Card
+ORD-0053,"May 21, 2026",Isha Kulkarni,Backpack,Accessories,North,2,"1,436.44",,Cash
+ORD-0054,23/03/2026, Priya Patil ,smartphone,Electronics,North,4,21398.72,5%,Card
+ORD-0055,"Jan 18, 2026",Neha Joshi,Desk,FURNITURE,East,1,9434.81,0.1,Card
+ORD-0056,24/03/2026,Isha Kulkarni, Desk ,Furniture,NORTH,1,"₹8,678.55",0.2,UPI
+ORD-0057,2026-02-25,Aarav Sharma,Pen Pack,Stationery,East,4,121.14,10%,Card
+ORD-0058,"Feb 01, 2026",Vivek Pawar,Desk,Furniture,West,3,9385.14,0.05,UPI
+ORD-0059,"May 18, 2026",Rohan Deshmukh,Smartphone,Electronics,North,1,22579.38,0,Cash
+ORD-0060,2026-03-20, Aarav Sharma ,Headphones,Electronics, east ,3,"₹1,827.50",15%,Cash
+ORD-0061,2026-04-16,Sana Khan,Laptop,Electronics,South,1,"52,935.04",0.1,UPI
+ORD-0062,16/01/2026,Aditya Kale,Notebook,Stationery,South,4,79.19,0.2,Card
+ORD-0063,08/01/2026,Aarav Sharma,headphones,Electronics,South,4,1798.7,5%,Cash
+ORD-0064,01/03/2026,Rohan Deshmukh,Pen Pack,Stationery,NORTH,1,₹114.88,0.05,Net Banking
+ORD-0065,2026-01-19,Neha Joshi,Laptop,Electronics,West,4 units,"52,546.90",0.15,Cash
+ORD-0066,2026-01-31, Aarav Sharma ,Desk,FURNITURE,South,4,9459.13,5%,Net Banking
+ORD-0067,2026-04-16,Isha Kulkarni,Notebook,Stationery,East,5,78.53,0.1,Net Banking
+ORD-0068,2026-04-17,Isha Kulkarni,Notebook,,South,4,₹75.42,0,Cash
+ORD-0069,"Jun 23, 2026",Ananya More,Laptop,Electronics,East,1,"51,889.57",0%,Cash
+ORD-0070,"May 22, 2026",Priya Patil, Pen Pack ,Stationery, west ,3,113.99,0.2,Card
+ORD-0071,"Mar 30, 2026",Ananya More,Desk,Furniture,North,2,8989.96,0,Card
+ORD-0072,2026-06-19, Sana Khan ,notebook,Stationery,EAST,3,₹80.69,15%,Cash
+ORD-0073,"Mar 27, 2026",Isha Kulkarni,Smartphone,Electronics,West,3,"₹1,800",0.1,Cash
+ORD-0074,"Mar 02, 2026",Rohan Deshmukh,Pen Pack,Stationery,South,5,120.3,0.1,Net Banking
+ORD-0075,"Mar 21, 2026",Aditya Kale,Pen Pack,Stationery,East,5,113.11,5%,Net Banking
+ORD-0076,30/05/2026,Neha Joshi,Laptop,Electronics,West,2,"₹54,472.04",0.1,Cash
+ORD-0077,26/01/2026,Sana Khan, Backpack ,ACCESSORIES,South,3,"1,409.08",0.15,Net Banking
+ORD-0078,20/01/2026, Meera Jadhav ,Headphones,Electronics,East,2 units,1837.2,0%,UPI
+ORD-0079,2026-02-20,Neha Joshi,Office Chair,Furniture,South,1,6624.35,0.1,UPI
+ORD-0080,12/05/2026,Aditya Kale,Laptop,Electronics,NORTH,4,"₹53,676.36",0.05,Net Banking
+ORD-0081,2026-01-20,Omkar Shinde,pen pack,Stationery,West,2,125.99,20%,Net Banking
+ORD-0082,2026-02-11,Sana Khan,Pen Pack,Stationery,North,5,113.34,0.05,UPI
+ORD-0083,2026-04-11,Omkar Shinde,Pen Pack,Stationery,West,1,118.14,0.05,UPI
+ORD-0084,31/05/2026, Rohan Deshmukh , Office Chair ,Furniture,West,2,"₹6,740.44",0%,
+ORD-0085,"Feb 27, 2026",Meera Jadhav,Backpack,Accessories,West,5,"1,476.09",0.2,Net Banking
+ORD-0086,22/02/2026,Isha Kulkarni,Headphones,Electronics,South,4,1803.25,0.15,Cash
+ORD-0087,16/02/2026,Vivek Pawar,Backpack,Accessories,North,5,1473.26,5%,Cash
+ORD-0088,30/01/2026,Kabir Shah,Office Chair,FURNITURE,NORTH,1,"₹6,145.03",0.1,Card
+ORD-0089,20/03/2026,Omkar Shinde,Headphones,Electronics,South,2,"1,906.35",0.05,Card
+ORD-0090,11/06/2026, Kabir Shah ,smartphone,Electronics, west ,1,22656.33,15%,Net Banking
+ORD-0091,11/06/2026,Ananya More, Laptop ,Electronics,North,5 units,54455.11,10%,Net Banking
+ORD-0092,04/04/2026,Isha Kulkarni,Backpack,Accessories,West,1,"₹1,369.08",0,Net Banking
+ORD-0093,2026-05-20,Isha Kulkarni,Office Chair,Furniture,West,1,"6,626.10",15%,Net Banking
+ORD-0094,09/03/2026,Sana Khan,Laptop,Electronics,West,3,49469.47,0.15,Card
+ORD-0095,"May 16, 2026",Meera Jadhav,Backpack,Accessories,North,4,1360.09,0.05,Net Banking
+ORD-0096,"Jun 19, 2026", Ananya More ,Laptop,Electronics,SOUTH,1,"₹50,383.66",0%,Net Banking
+ORD-0097,23/01/2026,Ananya More,Headphones,Electronics,East,1,"1,871.52",0,Card
+ORD-0098,28/01/2026,Ananya More, Backpack ,Accessories,East,5,1346.12,0.1,Net Banking
+ORD-0099,19/04/2026,Aarav Sharma,desk,FURNITURE,North,2,9404.53,0%,Cash
+ORD-0100,"Feb 05, 2026",Aarav Sharma,Office Chair,Furniture, north ,1,"₹6,352.05",0,Card
+ORD-0101,"May 21, 2026",Rohan Deshmukh,Office Chair,Furniture,South,5,"6,868.02",0,Card
+ORD-0102,, Neha Joshi ,Backpack,Accessories,West,3,1340.17,0%,Cash
+ORD-0103,"Jan 03, 2026",Aditya Kale,Notebook,Stationery,North,5,77.4,0.05,Card
+ORD-0104,"Jan 24, 2026",Aarav Sharma,Desk,Furniture,EAST,2 units,"₹9,191.87",0,Net Banking
+ORD-0105,2026-01-23,Aditya Kale, Pen Pack ,Stationery,South,5,120.09,5%,UPI
+ORD-0106,2026-05-06,Aditya Kale,Desk,Furniture,North,5,9087.61,0.2,Cash
+ORD-0107,2026-02-06,Meera Jadhav,Pen Pack,Stationery,East,3,124.38,0.1,UPI
+ORD-0108,2026-05-10, Ananya More ,pen pack,Stationery,East,1,₹123.44,15%,Net Banking
+ORD-0109,2026-01-24,Omkar Shinde,Headphones,Electronics,East,5,"1,718.73",0.15,Net Banking
+ORD-0110,"Jun 17, 2026",Aditya Kale,Backpack,ACCESSORIES, east ,3,1382.79,0.15,Cash
+ORD-0111,24/02/2026,Vivek Pawar,Office Chair,Furniture,South,5,6491.1,0%,Net Banking
+ORD-0112,2026-04-30,Vivek Pawar, Pen Pack ,Stationery,EAST,3,₹126.56,0.1,Card
+ORD-0113,21/02/2026,Isha Kulkarni,Backpack,Accessories,East,3,"1,471.37",0.05,Cash
+ORD-0114,2026-01-05, Meera Jadhav ,Desk,Furniture,South,3,9059.61,20%,UPI
+ORD-0115,25/04/2026,Meera Jadhav,Office Chair,Furniture,South,1,6192.6,0.15,Net Banking
+ORD-0116,2026-01-26,Priya Patil,Backpack,Accessories,East,4,"₹1,386.41",0.15,Card
+ORD-0117,24/06/2026,Sana Khan,pen pack,Stationery,East,1 units,121.38,5%,Net Banking
+ORD-0118,"Jun 18, 2026",Meera Jadhav,Notebook,Stationery,East,1,82.92,0.15,Cash
+ORD-0119,26/03/2026,Isha Kulkarni, Backpack ,Accessories,South,3,1447.84,0.1,UPI
+ORD-0120,2026-01-04, Omkar Shinde ,Office Chair,Furniture,SOUTH,5,"₹6,195.13",10%,Card
+ORD-0009,2026-04-11,Omkar Shinde,notebook,Stationery,North,1,75.81,20%,UPI
+ORD-0036,08/02/2026, Omkar Shinde ,pen pack,Stationery,North,5,₹118.68,15%,UPI
+ORD-0077,26/01/2026,Sana Khan, Backpack ,ACCESSORIES,South,3,"1,409.08",0.15,Net Banking
+ORD-0109,2026-01-24,Omkar Shinde,Headphones,Electronics,East,5,"1,718.73",0.15,Net Banking
